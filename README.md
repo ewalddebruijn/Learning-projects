@@ -14,4 +14,4 @@ A first step in any analysis is data gathering and display. The goal of the firs
 Learning objectives: 
   1) Understanding Pandas
   2) Building a wrapper around a web-API
-  3) Create a wrapper class that doesn't ask for data it has already seen before and allows the user to check if the data is up to date. 
+  3) Create a wrapper that doesn't ask for data it has already seen before and allows the user to check if the data is up to date. 
